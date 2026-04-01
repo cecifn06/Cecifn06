@@ -42,11 +42,10 @@ Sou formada em Odontologia e trago habilidades como disciplina, responsabilidade
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Wordpress" 
+    title="Wordpress"
     width="35px" 
     style="padding-right: 10px;"     
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
