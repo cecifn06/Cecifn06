@@ -2,6 +2,8 @@
 
 **`Ciência da Computação`**
 
+https://ceciliaprojetos.site/
+
 Sou Cecília Fernandes do Nascimento, tenho 32 anos e sou natural de Cabo Frio - RJ. Atualmente, curso Ciência da Computação pela Estácio, desenvolvendo minhas habilidades na área de tecnologia.
 
 Minha transição para o desenvolvimento começou após minha experiência com marketing digital, atuando com mercado de afiliados e tráfego pago, o que despertou meu interesse por soluções tecnológicas.
