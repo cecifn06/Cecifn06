@@ -1,16 +1,17 @@
 # 👩🏼‍💻 Cecília Fernandes
 
-**`Ciência da Computação`**
+**`Computer Science`**
 
 https://ceciliaprojetos.site/
 
-Sou Cecília Fernandes do Nascimento, tenho 32 anos e sou natural de Cabo Frio - RJ. Atualmente, curso Ciência da Computação pela Estácio, desenvolvendo minhas habilidades na área de tecnologia.
+I’m Cecília Fernandes do Nascimento, a Computer Science student based in Brazil, currently building my skills in software development and technology.
 
-Minha transição para o desenvolvimento começou após minha experiência com marketing digital, atuando com mercado de afiliados e tráfego pago, o que despertou meu interesse por soluções tecnológicas.
+My transition into tech started through my experience with digital marketing, affiliate marketing, and paid traffic, where I became interested in creating and improving digital solutions and web interfaces.
 
-Sou formada em Odontologia e trago habilidades como disciplina, responsabilidade e atenção aos detalhes.
+I also hold a Dentistry degree, which helped me develop strong discipline, responsibility, communication skills, and attention to detail — qualities I now apply to software development and problem solving.
 
-### 🤖 Linguagens, Tecnologias e Ferramentas
+
+### 🤖 Languages, Technologies & Tools
 
 <img 
     align="left" 
@@ -56,7 +57,7 @@ Sou formada em Odontologia e trago habilidades como disciplina, responsabilidade
 <br/>
 
 
-### 📚 Em aprendizado
+### 📚 Learning
 
 <img 
     align="left" 
@@ -73,15 +74,6 @@ Sou formada em Odontologia e trago habilidades como disciplina, responsabilidade
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
 <img 
