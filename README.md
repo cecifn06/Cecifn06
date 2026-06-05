@@ -2,7 +2,7 @@
 
 **`Computer Science`**
 
-Portfolio: ceciliaprojetos.site
+Portfolio: https://ceciliaprojetos.site/
 
 I’m Cecília Fernandes do Nascimento, a Computer Science student based in Brazil, currently building my skills in software development and technology.
 
