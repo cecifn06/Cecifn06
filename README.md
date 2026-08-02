@@ -1,4 +1,4 @@
-# 👩🏼‍💻 Cecília Fernandes
+#  Cecília Fernandes
 
 **`Computer Science`**
 
