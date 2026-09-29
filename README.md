@@ -122,19 +122,6 @@ Worked as a dentist from 2021 to 2025, developing strong skills in:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cecifn06&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecifn06&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cecifn06&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <i>"Learning in practice and building solutions for real problems."</i>
 </p>
