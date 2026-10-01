@@ -5,7 +5,6 @@
   Building practical projects while growing my skills in full-stack development, backend, data, and AI.
 </p>
 https://ceciliaprojetos.site/
----
 
 ## 🚀 About Me
 
