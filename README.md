@@ -4,16 +4,7 @@
   <b>Computer Science Student · Software Development</b><br>
   Building practical projects while growing my skills in full-stack development, backend, data, and AI.
 </p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/cecifn06">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cecifn06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+https://ceciliaprojetos.site/
 ---
 
 ## 🚀 About Me
